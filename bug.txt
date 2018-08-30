@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 nihao
 shijie 
 
 haode wozhidaole
+=======
+bug
+>>>>>>> 955ff247e65a845107fbd535edf5adaecca44c60
